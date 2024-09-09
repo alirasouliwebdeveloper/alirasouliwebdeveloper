@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ali Rasouli and I'm a Full Stack Web Developer, 6 years ago I started to learn Unity Game Engine and make some games for Android and PC, including making AI for restaurants. Game is wonderful :)</p>
+<p align="left">My name is Ali Rasouli and I'm a Full Stack Web Developer, from 2016, I started to learn Unity Game Engine and make some games for Android and PC, including making AI for restaurants. Game is wonderful :)</p>
 
 ###
 
