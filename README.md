@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Node JS, maybe Python and Unity<br>🎯 Goals: Create my game company, Learn Python and Data Science<br>🎲 Fun fact: Make a challenge, I'm ready every time you want</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Node JS, maybe Python and Unity<br>🎯 Goals: Create my game company, Learn Node JS to be MERN Stack and Game Developer<br>🎲 Fun fact: Make a challenge, I'm ready every time you want</p>
 
 ###
 
