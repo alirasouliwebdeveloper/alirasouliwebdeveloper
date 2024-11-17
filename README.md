@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ali Rasouli and I'm a Full Stack Web Developer, from 2016, I started to learn Unity Game Engine and make some games for Android and PC, including making AI for restaurants. Game is wonderful :)</p>
+<p align="left">My name is Ali Rasouli and I'm a Full Stack Web Developer, from 2016, I started to learn Python and Unity Game Engine to makes Optimizing my world with AI and some games for Mobile, Console, and PC, including making AI for restaurants. The game is wonderful :)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Node JS, maybe Python and Unity<br>🎯 Goals: Create my game company, Learn Node JS to be MERN Stack and Game Developer<br>🎲 Fun fact: Make a challenge, I'm ready every time you want</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Python, Node JS, and Unity<br>🎯 Goals: Create my game company, Learn Python and Node JS to be MERN Stack and Game Developer<br>🎲 Fun fact: Make a challenge, I'm ready every time you want</p>
 
 ###
 
@@ -30,6 +30,8 @@
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="15" />
