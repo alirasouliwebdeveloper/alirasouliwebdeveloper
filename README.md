@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ali Rasouli and I'm a Full Stack Web Developer, from 2016, I started to learn Python and Unity Game Engine to makes Optimizing my world with AI and some games for Mobile, Console, and PC, including making AI for restaurants. The game is wonderful :)</p>
+<p align="left">My name is Ali Rasouli, and I'm a Full Stack Web Developer. Since 2016. I am interested to learn Node.js and Express.js :)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Python, Node JS, and Unity<br>🎯 Goals: Create my game company, Learn Python and Node JS to be MERN Stack and Game Developer<br>🎲 Fun fact: Make a challenge, I'm ready every time you want</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Node JS<br>🎯 Goals: Create my developing company, Learn Node JS to be MERN Stack <br>🎲 Fun fact: Make a challenge, I'm ready every time you want</p>
 
 ###
 
@@ -31,13 +31,9 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="50" alt="redux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="15" />
